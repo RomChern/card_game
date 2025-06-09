@@ -1,2 +1,2 @@
-# hat_game
+# card_game
 Game for my friends and not only for them
